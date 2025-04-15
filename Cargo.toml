@@ -3,6 +3,15 @@ name = "attack"
 version = "0.1.0"
 edition = "2024"
 
+[[bin]]
+name = "group_26"
+path = "bin/group_26.rs"
+
+[[bin]]
+name = "group_8"
+path = "bin/group_8.rs"
+
+
 [dependencies]
 eyre = "0.6.12"
 rand = "0.9.0"
