@@ -39,6 +39,7 @@ dependencies = [
  "eyre",
  "rand",
  "reqwest",
+ "serde_json",
  "tokio",
  "tracing",
  "tracing-subscriber",
